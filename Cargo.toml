@@ -1,0 +1,8 @@
+[package]
+name = "focus_spike"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.100"
+x11rb = "0.13.2"
